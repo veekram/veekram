@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @veekram
-- 👀 I’m interested in Ruby, Ruby on Rails, Node, Nest, React
+- 👀 I’m interested in AI/LLM, Blockchain, Go Lang, Ruby, Ruby on Rails, Node, Nest, React
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on nothing ATM
 - 📫 How to reach me ...
