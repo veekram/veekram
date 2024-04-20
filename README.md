@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @veekram
 - 👀 I’m interested in AI/LLM, Blockchain, Go Lang, Ruby, Ruby on Rails, Node, Nest, React
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on nothing ATM
+- 💞️ I’m looking to collaborate with startups, nice ideas and good people :)
 - 📫 How to reach me ...
 -   veekramsuwal@gmail.com
 
